@@ -120,8 +120,6 @@ fs.writeFile(fileName, dataDisplay, (err) => {
 });
 
 })
-  // function to write README file
-
 
 // function to initialize program
 // function init() {
