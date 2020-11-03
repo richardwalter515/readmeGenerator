@@ -13,8 +13,7 @@ This readme generator takes input from the user about their projects and produce
 
 
 ## Image of product <a name="screenshots"></a>
-Example of produced readMe:
-![sampleReadMe](Assets/sampleProduct.png)
+![sampleReadMe](Develop/Assets/sampleProduct.png)
 
 
 ## Usage <a name="usage"></a>
