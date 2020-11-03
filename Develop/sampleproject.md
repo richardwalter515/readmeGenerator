@@ -1,5 +1,5 @@
 
-  # Sample Project [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+  # Sample Project [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
   ## Table of Contents
   1. [Description](#description)
@@ -13,27 +13,27 @@
   
   
   ## Description <a name="description"></a>
-  This is where the user should describe their project.
+  This is where the user will enter a description of their project.
   
   
   ## Installation <a name="installation"></a>
-  This is where the user will put any installation instructions needed for this project.
+  This is where the user will enter any installation instructions for their project.
   
   
   ## Usage <a name="usage"></a>
-  This is where the user will put relevant information on using the project.
+  This is where the user will enter any information on how to use their application.
   
   
   ## Contributing <a name="contributing"></a>
-  This is where the user will enter information on if and how they accept contributions from outside developers.
+  This is where the user will enter if and how they will accept contributions from outside developers.
   
   
   ## Tests <a name="tests"></a>
-  This is where the user will enter information on how to test the code.
+  This is where the user will enter any relevant information on how to test the code.
   
   
   ## License <a name="license"></a>
-  This project is licensed under the terms of the Apache License 2.0
+  This project is licensed under the terms of the MIT License
   
   
   ## Questions <a name="questions"></a>
